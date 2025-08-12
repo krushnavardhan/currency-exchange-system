@@ -16,3 +16,6 @@
 [submodule "ces-user-authentication-service"]
 	path = ces-user-authentication-service
 	url = https://github.com/krushnavardhan/ces-user-authentication-service.git
+[submodule "ces-config-files"]
+	path = ces-config-files
+	url = https://github.com/krushnavardhan/ces-config-files.git

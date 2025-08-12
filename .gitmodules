@@ -1,0 +1,18 @@
+[submodule "ces-api-gateway"]
+	path = ces-api-gateway
+	url = https://github.com/krushnavardhan/ces-api-gateway.git
+[submodule "ces-config-server"]
+	path = ces-config-server
+	url = https://github.com/krushnavardhan/ces-config-server.git
+[submodule "ces-currency-conversion"]
+	path = ces-currency-conversion
+	url = https://github.com/krushnavardhan/ces-currency-conversion.git
+[submodule "ces-currency-exchange"]
+	path = ces-currency-exchange
+	url = https://github.com/krushnavardhan/ces-currency-exchange.git
+[submodule "ces-eureka-server"]
+	path = ces-eureka-server
+	url = https://github.com/krushnavardhan/ces-eureka-server.git
+[submodule "ces-user-authentication-service"]
+	path = ces-user-authentication-service
+	url = https://github.com/krushnavardhan/ces-user-authentication-service.git
